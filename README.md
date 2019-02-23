@@ -28,7 +28,7 @@ git clone https://github.com/zombieCraig/ICSim.git
 ```
 
 #### Installing individual tools
-If you *do* wish to install the tools above by yourself, here is how you can do so:
+On other operating systems you will likely be able to run Wireshark. However, can-utils and ICSim may not work if you aren't using Linux.
 
 * **Wireshark**: Wireshark can be installed on multiple operating systems. Visit https://www.wireshark.org/ to find instructions to download Wireshark and run it on your computer.
 * **can-utils and ICSim**: if you have a Unix-based system, these may work on your computer. You will have to clone both of these from their respective repositories:
